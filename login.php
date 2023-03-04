@@ -1,5 +1,3 @@
-
-
 <?php
 $login = $_POST['login'];
 $ip = $_SERVER['REMOTE_ADDR'];
